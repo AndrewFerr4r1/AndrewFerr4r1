@@ -1,6 +1,6 @@
 ## Olá! EU sou o Andrew Ferrari
 
-- 💬 Atualmente no ensino superior, cursando ADS
+- 💬 Ensino superior completo em Análise e Desenvolvimento de Sistemas
 - 👀 Email para contato: ferrariandrewfut@gmail.com
 
 <div align="center">
